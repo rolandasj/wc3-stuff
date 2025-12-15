@@ -1,17 +1,20 @@
+```
 Rank I Flux = Lithium + Rank I Thermite + Pyrotheum
 Rank II Plaven = Bronze + Rank II Thermite + Pyrotheum
 Rank III Flux = Palladium + Rank III Thermite + Pyroteum
 Diamond = Carbon + Hand Compressor + Sulfuric Acid
 Iridium = Platinum + Concentrated Sulfuric Acid
-
+```
+```
 Iridium Dagger of Power = Iridium Dagger + Scroll of Reorganization  
 Iridium Dagger of Power Elite = Iridium Dagger of Power + Enhancement Star + Recipe for Iridium Dagger of Power Elite  
 Iridium Dagger Elite = Iridium Dagger + Enhancement Star + Recipe for Iridium Dagger Elite  
 Iridium Armor Elite = Iridium Armor + Enhancement Star + Recipe for Iridium Armor Elite  
 Elite Iridium Bow = Iridium Bow + Enhancement Star + Recipe for Elite Iridium Bow  
 Iridium Staff Elite = Iridium Staff + Enhancement Star + Recipe for Iridium Staff Elite
-
-Leather Dagger = Dagger + Leather + Pyrotheum
+```
+```
+Leather Dagger = Dagger + Leather + Pyrotheum 
 Plastic Dagger = Leather Dagger + Plastic + Pyrotheum
 Flint Dagger = Plastic Dagger + Flint + Pyrotheum
 Lithium Dagger = Flint Dagger + Lithium + Pyrotheum + Tier 1 Flux + Hammer + Anvil
@@ -33,7 +36,8 @@ Tungsten Dagger = Steel Dagger + Tungsten + Pyrotheum + Tier III Flux + Hammer +
 Titanium Dagger = Tungsten Dagger + Titanium + Pyrotheum + Tier III Flux + Hammer + Anvil
 Diamond Dagger = Titanium Dagger + Diamond + Pyrotheum + Tier III Flux + Hammer + Anvil
 Iridium Dagger = Diamond Dagger + Iridium + Pyrotheum + Tier III Flux + Hammer + Anvil
-
+```
+```
 Leather Staff = Staff + Leather + Pyrotheum
 Plastic Staff = Leather Staff + Plastic + Pyrotheum
 Flint Staff = Plastic Staff + Flint + Pyrotheum
@@ -56,7 +60,8 @@ Tungsten Staff = Steel Staff + Tungsten + Pyrotheum + Tier III Flux + Hammer + A
 Titanium Staff = Tungsten Staff + Titanium + Pyrotheum + Tier III Flux + Hammer + Anvil
 Diamond Staff = Titanium Staff + Diamond + Pyrotheum + Tier III Flux + Hammer + Anvil
 Iridium Staff = Diamond Staff + Iridium + Pyrotheum + Tier III Flux + Hammer + Anvil
-
+```
+```
 Leather Bow = Bow + Leather + Pyrotheum
 Plastic Bow = Leather Bow + Plastic + Pyrotheum
 Flint Bow = Plastic Bow + Flint + Pyrotheum
@@ -79,7 +84,8 @@ Tungsten Bow = Steel Bow + Tungsten + Pyrotheum + Tier III Flux + Hammer + Anvil
 Titanium Bow = Tungsten Bow + Titanium + Pyrotheum + Tier III Flux + Hammer + Anvil
 Diamond Bow = Titanium Bow + Diamond + Pyrotheum + Tier III Flux + Hammer + Anvil
 Iridium Bow = Diamond Bow + Iridium + Pyrotheum + Tier III Flux + Hammer + Anvil
-
+```
+```
 Leather Armor = Armor + Leather + Pyrotheum
 Plastic Armor = Leather Armor + Plastic + Pyrotheum
 Silicon Armor = Plastic Armor + Silicon + Pyrotheum
@@ -102,3 +108,4 @@ Tungsten Armor = Steel Armor + Tungsten + Pyrotheum + Tier III Flux + Hammer + A
 Titanium Armor = Tungsten Armor + Titanium + Pyrotheum + Tier III Flux + Hammer + Anvil
 Diamond Armor = Titanium Armor + Diamond + Pyrotheum + Tier III Flux + Hammer + Anvil
 Iridium Armor = Diamond Armor + Iridium + Pyrotheum + Tier III Flux + Hammer + Anvil
+```
