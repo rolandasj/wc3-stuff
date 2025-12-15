@@ -1,6 +1,4 @@
-
----
-
+```
 Elwing's Seal = Elwing's Second Crystal + Elwing's Crystal  
 Elixir of Youth = Healing Potion + Mushrooms  
 Sharpened Saw = Whetstone + Saw  
@@ -170,6 +168,4 @@ El-Nur Ring = El-Nur Shard I + El-Nur Shard II + El-Nur Shard III + El-Nur Shard
 Miritor Ring = Miritor Shard I + Miritor Shard II + Miritor Shard III + Miritor Shard IV + Miritor Recipe
 
 Elite Death Scythe = Enhancement Star + Torture Tool + Elite Death Weapon Recipe  
-
-
-
+```
