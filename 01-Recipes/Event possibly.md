@@ -1,3 +1,4 @@
+```
 Pumpkin Amulet = Pumpkin Amulet (Easy) + Pumpkin Amulet (Medium) + Pumpkin Amulet (Hard) + Pumpkin Amulet Recipe  
 Pumpkin Fang = Pumpkin Fang (Easy) + Pumpkin Fang (Medium) + Pumpkin Fang (Hard) + Pumpkin Fang Recipe  
 Pumpkin Helmet = Pumpkin Helmet (Easy) + Pumpkin Helmet (Medium) + Pumpkin Helmet (Hard) + Pumpkin Helmet Recipe
@@ -9,3 +10,4 @@ Lunar Spectrum Hard Elite = Lunar Spectrum (Hard) + Enhancement Star + Lunar Spe
 
 New Year's Guardian = Winter Solstice Pendant + Winter Solstice Bayonet + Winter Solstice Core
 Elite New Year's Guardian = New Year's Guardian + Enhancement Star + Elite New Year Guardian Recipe  
+```
