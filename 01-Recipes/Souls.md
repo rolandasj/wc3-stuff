@@ -1,3 +1,4 @@
+```
 Troll Soul = Soul Merge + Shrunken Troll Head + Forest Amulet + Sorcerer's Wand + Everlasting Flame  
 Spider Soul = Soul Fusion + Spider Skin Boots + Spider Venom + Spider Paw + Princess Bow  
 Owl Soul = Soul Fusion + Grim Shield + Savage Axe + Owl Essence + Ring of the Protector
@@ -17,3 +18,4 @@ Panda Soul = Soul Fusion + Soubi Mask + Ancient Griffin Pendant + Qin Staff + Kr
 Spirit of the Giant = Soul Fusion + Ace King's Axe + Eye of Kel Tu Zed + Ice Shard + Nameless Hammer  
 Leviathan Spirit = Soul Fusion + Leviathan + Lusk-Covered Shoes + Deep Sea Gloves + Sturdy Ring  
 Spirit of Gramunculus = Soulmeld + Carapace of the Animated Protector + Ragnarok + Executioner's Sword + Fireplast
+```
