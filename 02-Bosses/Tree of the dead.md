@@ -1,2 +1,2 @@
 First get quest from a camp between plague lands and archaelogical camp, close to temple of annouk. After you have the quest it will open the tress when you walk close to the boss.
-![[Pasted image 20251215110938.png]]
+![](attachments/Pasted%20image%2020251215110938.png)
