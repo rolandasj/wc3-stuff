@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8fc15dd2e275b43",
+        "id": "0c7fdd035fb85747",
         "type": "tabs",
         "children": [
           {
-            "id": "b27a29605643d64c",
+            "id": "1d7c0d8fc7441442",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,11 +180,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "b27a29605643d64c",
+  "active": "1d7c0d8fc7441442",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled 1.base",
+    "README.md",
+    "04-Extras/Secret shop - Dremora Garden.md",
+    "04-Extras/01-Misc.md",
+    "Untitled.canvas",
+    "01-Recipes/Lucky set 1.md",
     "01-Recipes/Souls.md",
     "01-Recipes/Personal item.md",
     "01-Recipes/Lucky set 6.md",
@@ -192,7 +200,6 @@
     "01-Recipes/Lucky set 4.md",
     "01-Recipes/Lucky set 3.md",
     "01-Recipes/Lucky set 2.md",
-    "01-Recipes/Lucky set 1.md",
     "01-Recipes/Granny's Pantaloons.md",
     "01-Recipes/Event possibly.md",
     "01-Recipes/Armor-Chamelion.md",
@@ -207,10 +214,6 @@
     "02-Bosses/Master Bruise.md",
     "02-Bosses/Leviathan.md",
     "02-Bosses/Frost Giant.md",
-    "02-Bosses/Faceless Moonkey grave melody.md",
-    "02-Bosses/Dreadnought (Admiral).md",
-    "02-Bosses/Demon Worshiper tomb song boss.md",
-    "02-Bosses/Deep (oak) hide and seek boss 65lvl area.md",
     "attachments/Pasted image 20251215135445.png",
     "04-Extras/attachments/Pasted image 20251215105507.png",
     "04-Extras/attachments/Pasted image 20251215105509.png",
@@ -222,14 +225,11 @@
     "04-Extras/attachments/Pasted image 20251215110346.png",
     "04-Extras/attachments/Pasted image 20251215111827.png",
     "attachments",
-    "Untitled.canvas",
-    "Untitled.base",
     "03-Quests",
     "01-Recipes/attachments",
     "02-Bosses/attachments",
     "04-Extras/attachments",
     "Index.base",
-    "Untitled 1.base",
     "Untitled 2.base",
     "04-Extras"
   ]
