@@ -1,0 +1,1 @@
+First, take the quest to kill him. Next, he will be in the cave right down the bridge from capital.![[Pasted image 20251215110031.png]]![[Pasted image 20251215110035.png]]

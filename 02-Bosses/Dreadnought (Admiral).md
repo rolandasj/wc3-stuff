@@ -1,0 +1,1 @@
+I believe unlocked by taking the quest from capital to kill it. Motherfucker perma bashes

@@ -1,0 +1,1 @@
+In secret lab there is a gate that you unlock with moon key from [[Demon Worshiper tomb song boss]]

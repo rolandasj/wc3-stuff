@@ -1,0 +1,1 @@
+In secret lab talk to the quest giver, he will give document, bring it back to capital, to Arthas close to the king. After that The first purple portal will be open.

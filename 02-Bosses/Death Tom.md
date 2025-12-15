@@ -1,0 +1,1 @@
+Located inside [[Darius tower (to open)]]

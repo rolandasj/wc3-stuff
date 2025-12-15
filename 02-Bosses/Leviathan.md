@@ -1,0 +1,1 @@
+Plague lands, walk north until you find a boat shop, buy the boat, sail a little bit it should be on one of the islands on the left.

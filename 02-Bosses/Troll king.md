@@ -1,0 +1,1 @@
+Buy key in the [[Secret shop - Temple of Annouk]], shop is located in green orb just in the middle of the path between gates of northen orc camp, buy the key, house is icon, to spawn him bring key to the biggest troll house in forest 60-65 just bellow bridge that leads to the temple of annouk.

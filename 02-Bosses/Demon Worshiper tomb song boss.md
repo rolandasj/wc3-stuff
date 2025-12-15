@@ -1,0 +1,1 @@
+Located in the 15-20 skeleton area. You summon it by walking on correct circles (theres 5). It should give some indication if correct circle, etc. I think the order is 1st to the entrance, 2nd top left, 3rd top right, 4th behind melee skele boss, 5th behind skele archer boss, a bit hidden but its behind, behind a building find a path.
