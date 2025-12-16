@@ -1,0 +1,1 @@
+Kill Frost wyrms in Necropolis, and once you killed enough Safiron will spawn in 40-50 area (you will get ping)

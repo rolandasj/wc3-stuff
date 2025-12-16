@@ -1,0 +1,1 @@
+Fishing can be found in autumn village, npc sells rod and bait. You need just one bait. Follow instructions on the rod, will give 2 abilities, fish or check fishing spots. 

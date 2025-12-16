@@ -7,3 +7,5 @@ New Year's Owl = Santa's Soul + Santa's Ring + Santa's Staff + Santa's Cape - In
 Mini Technoid = Mini Technoid (item) - Increases ranged damage by 100%, increases attack power by 100%
 Chimera = Achievement for 8k kills - Increases combat speed by 20%, increases health regeneration speed by 500 units.
 Djinn = 3 powerful buffs to choose from. Retrieve the lamp after killing the Blood Queen. Flying carpet in the wasteland.
+
+The Undertakers heart - need 2 people (red and blue) stand each in both tombs where the boss is.

@@ -1,0 +1,2 @@
+Buy blood from hydromancer, and use it to summon him in the dremora gardens top right crypt. You summon him where there is 1 circle. You may need summon it many times before you get loot
+![](attachments/Pasted%20image%2020251215200614.png)
