@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "110c69b6a87a4da6",
+        "id": "0b79d2505d7ab382",
         "type": "tabs",
         "children": [
           {
-            "id": "c4aa526c1063c42b",
+            "id": "191d72482efeac4b",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "02-Bosses/attachments/Pasted image 20251215110035.webp"
+                "file": "04-Extras/01-Misc locations/attachments/image.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20251215110035"
+              "title": "image"
             }
           }
         ]
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "diamond",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,44 +182,45 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "c4aa526c1063c42b",
+  "active": "191d72482efeac4b",
   "lastOpenFiles": [
-    "03-Quests/Item - A fragment of the legendary sword.md",
-    "03-Quests/Item - Tip of the Legendary Sword.md",
-    "02-Bosses/Arthas (ice fort).md",
-    "02-Bosses/01-Boss Drop List.md",
-    "04-Extras/4 guardians 160 lvl +.md",
-    "04-Extras/Darius tower (to open).md",
-    "01-Recipes/Archibald's Blade.md",
-    "01-Recipes/Adventurer's Set.md",
-    "03-Quests/Lost toy.md",
-    "03-Quests/Jaina quest, opens more teleports.md",
-    "01-Recipes/Armor-Chamelion.md",
-    "01-Recipes/Widow's cry.md",
-    "01-Recipes/Soul Brander.md",
-    "01-Recipes/Souls.md",
-    "01-Recipes/Lucky set 4.md",
-    "01-Recipes/Lucky set 3.md",
-    "01-Recipes/Lucky set 2.md",
-    "01-Recipes/Lucky set 1.md",
-    "01-Recipes/Book of Drek-Thar 7.md",
-    "04-Extras/Secret shop - Dead Swamp.md",
-    "02-Bosses/Soul of the Elements (forest, water, fire, ice).md",
-    "01-Recipes/01-Misc.md",
+    "04-Extras/01-Misc locations/Apples.md",
+    "04-Extras/01-Misc locations/attachments/image.png",
     "04-Extras/01-Misc.md",
-    "04-Extras/Secret shop - Temple of Annouk.md",
+    "04-Extras/Apples.md",
+    "04-Extras/01-Misc locations/attachments",
+    "04-Extras/01-Misc locations",
+    "04-Extras/attachments/image.png",
+    "04-Extras/02-Locations.md",
+    "03-Quests/Item - Natural essence.md",
+    "03-Quests/Item - The Undertakers Heart.md",
+    "03-Quests/attachments/image-2.png",
+    "03-Quests/attachments/image-1.png",
+    "03-Quests/attachments/image.png",
+    "02-Bosses/Butcher Joseph.md",
+    "02-Bosses/attachments/image-2.png",
+    "02-Bosses/attachments/image-1.png",
+    "02-Bosses/attachments/image.png",
+    "01-Recipes/Personal item.md",
+    "03-Quests/Item - Grandma's pantaloon recipe 4.md",
+    "03-Quests/Grandmas pantaloons 4.md",
+    "03-Quests/Gardener.md",
+    "03-Quests/01-Misc.md",
+    "03-Quests/High Elf (bring elixir).md",
+    "03-Quests/Main story.md",
+    "03-Quests/Witch Doctor.md",
+    "03-Quests/Tinker (bring ammuntion).md",
+    "03-Quests/Sweet Berries.md",
+    "03-Quests/Spider cocoon.md",
+    "03-Quests/Priest (Library).md",
+    "03-Quests/Jaina quest, opens more teleports.md",
+    "03-Quests/Lost toy.md",
+    "03-Quests/Orc quest line.md",
+    "03-Quests/Peasant (wastelands).md",
+    "03-Quests/Penguin.md",
+    "02-Bosses/01-Boss Drop List.md",
+    "02-Bosses/attachments/Pasted image 20251215110035.webp",
     "03-Quests/attachments/Pasted image 20251217102238.webp",
-    "03-Quests/attachments/Pasted image 20251217102214.webp",
-    "03-Quests/attachments/Pasted image 20251217102152.webp",
-    "03-Quests/Item - Phantom Blade.md",
-    "03-Quests/attachments/Pasted image 20251217100306.webp",
-    "03-Quests/attachments/Pasted image 20251217100123.webp",
-    "03-Quests/attachments/Pasted image 20251217100038.webp",
-    "04-Extras/10 harvesting quests for achiv.md",
-    "04-Extras/attachments/Pasted image 20251217094613.webp",
-    "03-Quests/attachments/Pasted image 20251217091950.webp",
-    "03-Quests/attachments/Pasted image 20251217091927.webp",
-    "03-Quests/attachments/Pasted image 20251217082614.webp",
     "03-Quests/attachments",
     "Untitled.base",
     "Untitled 1.base",
@@ -228,8 +229,6 @@
     "03-Quests",
     "01-Recipes/attachments",
     "02-Bosses/attachments",
-    "04-Extras/attachments",
-    "Index.base",
-    "Untitled 2.base"
+    "04-Extras/attachments"
   ]
 }

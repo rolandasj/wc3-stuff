@@ -119,7 +119,7 @@
       "ffmpegPreset": "medium"
     }
   ],
-  "selectedConversionPreset": "webp-20",
+  "selectedConversionPreset": "WebP 20",
   "globalPresets": [
     {
       "name": "WebP 75",
@@ -246,14 +246,14 @@
   "ProcessCurrentNoteEnlargeOrReduce": "Always",
   "ProcessCurrentNoteSkipFormats": "tif,tiff,heic",
   "ProcessAllVaultconvertTo": "webp",
-  "ProcessAllVaultquality": 0.5,
+  "ProcessAllVaultquality": 0.2,
   "ProcessAllVaultResizeModalresizeMode": "None",
   "ProcessAllVaultResizeModaldesiredWidth": 500,
   "ProcessAllVaultResizeModaldesiredHeight": 500,
   "ProcessAllVaultResizeModaldesiredLength": 500,
   "ProcessAllVaultEnlargeOrReduce": "Always",
-  "ProcessAllVaultSkipFormats": "",
-  "ProcessAllVaultskipImagesInTargetFormat": false,
+  "ProcessAllVaultSkipFormats": "webp",
+  "ProcessAllVaultskipImagesInTargetFormat": true,
   "annotationPresets": {
     "drawing": [
       {
