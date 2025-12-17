@@ -1,0 +1,1 @@
+One of rewards for quests in ice fort

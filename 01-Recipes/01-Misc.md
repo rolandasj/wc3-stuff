@@ -3,7 +3,7 @@ Elwing's Seal = Elwing's Second Crystal + Elwing's Crystal
 Elixir of Youth = Healing Potion + Mushrooms  
 Sharpened Saw = Whetstone + Saw  
 Licorice Root = Gardener's Kit + Licorice  
-Magic Keys = Bloody Key + Strange Key
+Magic Keys = Bloody Key + Strange Key (one from hydromancer, the other from the cage in ashenvale forest)
 Ancient Blood Key = Azuna's Soul + Elemental Soul + Stardust + Ancient Key Recipe
 Strange Prism = Prism Shard I + Prism Shard II + Prism Shard III + Prism Shard IV  
 Otherworldly Tube = Strange Prism + Erikon's Shard + Druid's Telescope
@@ -106,7 +106,7 @@ Bionoric = Biorn's Savagery + Biorn's Insolence + Biorn's Madness + Gilded Melio
 Alyosha Popovich's Cudgel = Bandit Pendant + Bandit Soul + Bandit Armlet
 
 Secret = Source of Life + Source of Magic + Source of Power
-In the Flooded Valley below the monster near the fountain
+In the West Lake, go south to another area with mobs level 55 or so, there should be some light thing or fountain
 
 Victor's Weapon = Rank II Defender's Armor + Defender's Ring + Ancient Cork Mask + Recipe for Victor's Weapon  
 Shield of the Celestial Protector = Lantern of Light + Shield of the Righteous + Steel Shield + Recipe for Shield of the Celestial Protector  

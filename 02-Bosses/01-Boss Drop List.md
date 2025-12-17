@@ -395,7 +395,7 @@
 - Rugged Ring
 
 ---
-## Royal Crypt Guard  (Plague Lands – Left Temple)
+## Royal Crypt Guard (Plague Lands – Left Temple)
 - Termit III
 - Dead Man's Key
 - Beer Mug (Obolon)
@@ -801,3 +801,11 @@
 - Pentagram of Nekros
 - Alchemy Stone
 - Secret
+
+---
+## Mad Savage
+- Berserker Gloves
+- Bloodspring Armor
+- Bleeding
+
+---
