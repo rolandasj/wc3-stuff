@@ -4,12 +4,12 @@ Take the quest from Tyrande, will tell you go to spirit guide. Spirit guide is l
 It will tell you go to gold mines and kill a boss. You summon him by walking to the statue. Kill it and return
 On completion you will get Elven Blade
 
-![](attachments/Pasted%20image%2020251215113318.png)
+![](../02-Bosses/attachments/Pasted%20image%2020251215113318.webp)
 
-![](attachments/Pasted%20image%2020251217004654.png)
+![](attachments/Pasted%20image%2020251217004654.webp)
 
-![](attachments/Pasted%20image%2020251217004931.png)
+![](attachments/Pasted%20image%2020251217004931.webp)
 
-![](attachments/Pasted%20image%2020251217004956.png)
+![](attachments/Pasted%20image%2020251217004956.webp)
 
-![](attachments/Pasted%20image%2020251217005103.png)
+![](attachments/Pasted%20image%2020251217005103.webp)

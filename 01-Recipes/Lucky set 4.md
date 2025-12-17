@@ -8,4 +8,4 @@ Panda Soul = Soul Fusion + Soubi Mask + Ancient Griffin Pendant + Qin Staff + Kr
 
 Once you have lucky set 3, talk to Po, he will give you a quest. He gives different quest depending on lucky set level. On finish it will give the set recipe
 Buy flowers from hydromancer, and bring it to the grave, kill the soul. Go back and return the q. 2nd piece is from villager return birthday present. You have to walk to centaurs cave and return to footman. (cannot teleport). Take both pieces and return to po.
-![](attachments/Pasted%20image%2020251215110836.png)![](attachments/Pasted%20image%2020251215110843.png)![](attachments/Pasted%20image%2020251215110846.png)![](attachments/Pasted%20image%2020251215110848.png)
+![](attachments/Pasted%20image%2020251215110836.webp)![](attachments/Pasted%20image%2020251215110843.webp)![](attachments/Pasted%20image%2020251215110846.webp)![](attachments/Pasted%20image%2020251215110848.webp)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Extras/Darius tower (to open).md",
+                "file": "03-Quests/Item - A fragment of the legendary sword.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Darius tower (to open)"
+              "title": "Item - A fragment of the legendary sword"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "darius",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +186,11 @@
   },
   "active": "c4aa526c1063c42b",
   "lastOpenFiles": [
+    "03-Quests/Item - Tip of the Legendary Sword.md",
+    "02-Bosses/Arthas (ice fort).md",
+    "02-Bosses/01-Boss Drop List.md",
     "04-Extras/4 guardians 160 lvl +.md",
+    "04-Extras/Darius tower (to open).md",
     "01-Recipes/Archibald's Blade.md",
     "01-Recipes/Adventurer's Set.md",
     "03-Quests/Lost toy.md",
@@ -201,27 +205,23 @@
     "01-Recipes/Lucky set 1.md",
     "01-Recipes/Book of Drek-Thar 7.md",
     "04-Extras/Secret shop - Dead Swamp.md",
-    "02-Bosses/01-Boss Drop List.md",
     "02-Bosses/Soul of the Elements (forest, water, fire, ice).md",
     "01-Recipes/01-Misc.md",
     "04-Extras/01-Misc.md",
     "04-Extras/Secret shop - Temple of Annouk.md",
     "03-Quests/Item - A fragment of the legendary sword.md",
-    "03-Quests/attachments/Pasted image 20251217102238.png",
-    "03-Quests/attachments/Pasted image 20251217102214.png",
-    "03-Quests/attachments/Pasted image 20251217102152.png",
+    "03-Quests/attachments/Pasted image 20251217102238.webp",
+    "03-Quests/attachments/Pasted image 20251217102214.webp",
+    "03-Quests/attachments/Pasted image 20251217102152.webp",
     "03-Quests/Item - Phantom Blade.md",
-    "03-Quests/attachments/Pasted image 20251217100306.png",
-    "03-Quests/attachments/Pasted image 20251217100123.png",
-    "03-Quests/attachments/Pasted image 20251217100038.png",
+    "03-Quests/attachments/Pasted image 20251217100306.webp",
+    "03-Quests/attachments/Pasted image 20251217100123.webp",
+    "03-Quests/attachments/Pasted image 20251217100038.webp",
     "04-Extras/10 harvesting quests for achiv.md",
-    "04-Extras/attachments/Pasted image 20251217094613.png",
-    "03-Quests/Penguin.md",
-    "03-Quests/attachments/Pasted image 20251217091950.png",
-    "03-Quests/attachments/Pasted image 20251217091927.png",
-    "03-Quests/Forces of nature.md",
-    "03-Quests/High Elf (bring elixir).md",
-    "03-Quests/attachments/Pasted image 20251217082614.png",
+    "04-Extras/attachments/Pasted image 20251217094613.webp",
+    "03-Quests/attachments/Pasted image 20251217091950.webp",
+    "03-Quests/attachments/Pasted image 20251217091927.webp",
+    "03-Quests/attachments/Pasted image 20251217082614.webp",
     "03-Quests/attachments",
     "Untitled.base",
     "Untitled 1.base",

@@ -3,12 +3,12 @@ After go north of Capital and take the quest. Kill 20 inhabitants and return, ga
 Take the quest from Tyrande, will tell you go to spirit guide. Spirit guide is located in capital city.
 It will tell you go to gold mines and kill a boss. You summon him by walking to the statue. Kill it and return
 
-![](attachments/Pasted%20image%2020251215113318.png)
+![](attachments/Pasted%20image%2020251215113318.webp)
 
-![](attachments/Pasted%20image%2020251217004654.png)
+![](../03-Quests/attachments/Pasted%20image%2020251217004654.webp)
 
-![](attachments/Pasted%20image%2020251217004931.png)
+![](../03-Quests/attachments/Pasted%20image%2020251217004931.webp)
 
-![](attachments/Pasted%20image%2020251217004956.png)
+![](../03-Quests/attachments/Pasted%20image%2020251217004956.webp)
 
-![](attachments/Pasted%20image%2020251217005103.png)
+![](../03-Quests/attachments/Pasted%20image%2020251217005103.webp)

@@ -9,18 +9,18 @@ To unlock him you need to get 2 keys:
 - Strange Key from Ashenvale Forest cage
 - Bloody Key from hydromancer
 
-![](attachments/Pasted%20image%2020251215113318.png)
+![](attachments/Pasted%20image%2020251215113318.webp)
 
-![](attachments/Pasted%20image%2020251217004654.png)
+![](../03-Quests/attachments/Pasted%20image%2020251217004654.webp)
 
-![](attachments/Pasted%20image%2020251217004931.png)
+![](../03-Quests/attachments/Pasted%20image%2020251217004931.webp)
 
-![](attachments/Pasted%20image%2020251217004956.png)
+![](../03-Quests/attachments/Pasted%20image%2020251217004956.webp)
 
-![](attachments/Pasted%20image%2020251217005103.png)
+![](../03-Quests/attachments/Pasted%20image%2020251217005103.webp)
 
-![](attachments/Pasted%20image%2020251217005352.png)
+![](../03-Quests/attachments/Pasted%20image%2020251217005352.webp)
 
-![](attachments/Pasted%20image%2020251217005532.png)
+![](../03-Quests/attachments/Pasted%20image%2020251217005532.webp)
 
-![](attachments/Pasted%20image%2020251217005717.png)
+![](../03-Quests/attachments/Pasted%20image%2020251217005717.webp)

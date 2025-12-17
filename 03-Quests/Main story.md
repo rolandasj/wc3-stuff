@@ -10,14 +10,14 @@ She appears in plague lands, talk to it. Tells you to active the obelisk
 
 ...
 
-![](attachments/Pasted%20image%2020251217081831.png)
+![](attachments/Pasted%20image%2020251217081831.webp)
 
-![](attachments/Pasted%20image%2020251217081902.png)
+![](attachments/Pasted%20image%2020251217081902.webp)
 
-![](attachments/Pasted%20image%2020251217082042.png)
+![](attachments/Pasted%20image%2020251217082042.webp)
 
-![](attachments/Pasted%20image%2020251217082227.png)
+![](attachments/Pasted%20image%2020251217082227.webp)
 
-![](attachments/Pasted%20image%2020251217082214.png)
+![](attachments/Pasted%20image%2020251217082214.webp)
 
-![](attachments/Pasted%20image%2020251217082614.png)
+![](attachments/Pasted%20image%2020251217082614.webp)

@@ -4,8 +4,8 @@ Next quest requires Spider Slime.
 
 ![Spider slime](Item%20-%20Spider%20slime.md)
 
-![](attachments/Pasted%20image%2020251217010602.png)
+![](attachments/Pasted%20image%2020251217010602.webp)
 
-![](attachments/Pasted%20image%2020251217010728.png)
+![](attachments/Pasted%20image%2020251217010728.webp)
 
-![](attachments/Pasted%20image%2020251217010836.png)
+![](attachments/Pasted%20image%2020251217010836.webp)

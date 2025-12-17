@@ -1,6 +1,6 @@
 Green dragon (1st capital purple portal) kill around 40 dragons to spawn it.
 
-Fire dragon, located in secret lab ![](attachments/Pasted%20image%2020251215220459.png)
+Fire dragon, located in secret lab ![](attachments/Pasted%20image%2020251215220459.webp)
 
 
 [Sephiron Dragon](Sephiron.md)
@@ -9,4 +9,4 @@ Blue dragon (take ice horror quest in ice fort) and head to 2nd portal in capita
 
 [Ice Horror](Ice%20horror.md)
 
-![](attachments/Pasted%20image%2020251215220802.png)
+![](attachments/Pasted%20image%2020251215220802.webp)

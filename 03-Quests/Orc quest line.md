@@ -4,10 +4,10 @@ Next quest is in wastelands. It will tell you to kill shaman, located in orc cam
 
 *Orc chieftain also drops forge key needed to unlock further materials for personal item ubgrades.*
 
-![](attachments/Pasted%20image%2020251216235357.png)
+![](attachments/Pasted%20image%2020251216235357.webp)
 
-![](attachments/Pasted%20image%2020251216235548.png)
+![](attachments/Pasted%20image%2020251216235548.webp)
 
-![](attachments/Pasted%20image%2020251216235958.png)
+![](attachments/Pasted%20image%2020251216235958.webp)
 
-![](attachments/Pasted%20image%2020251217000034.png)
+![](attachments/Pasted%20image%2020251217000034.webp)

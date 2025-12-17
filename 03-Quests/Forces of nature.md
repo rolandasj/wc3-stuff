@@ -4,10 +4,10 @@ You will get item that will unlock the doors to another tree. Go and talk. Not m
 write 'save'
 Tells you to find seal of the ancients
 
-![](attachments/Pasted%20image%2020251217070148.png)
+![](attachments/Pasted%20image%2020251217070148.webp)
 
-![](attachments/Pasted%20image%2020251217070938.png)
+![](attachments/Pasted%20image%2020251217070938.webp)
 
-![](attachments/Pasted%20image%2020251217071009.png)
+![](attachments/Pasted%20image%2020251217071009.webp)
 
-![](attachments/Pasted%20image%2020251217071055.png)
+![](attachments/Pasted%20image%2020251217071055.webp)

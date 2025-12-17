@@ -1,7 +1,7 @@
 Get quest from npc near tower (located in wastelands in a cave), asks to bring 2 runes. 1st rune will be pinged on map (1 location might be rip or super difficult to get to so may need remake), 2nd rune is in gold mine. Death Tom boss is inside the tower, when looking the loot it doesnt show anything but he drops.
 
-![](attachments/Pasted%20image%2020251217000945.png)
+![](attachments/Pasted%20image%2020251217000945.webp)
 
-![](attachments/Pasted%20image%2020251217000917.png)
+![](attachments/Pasted%20image%2020251217000917.webp)
 
-![](attachments/Pasted%20image%2020251215111827.png)
+![](attachments/Pasted%20image%2020251215111827.webp)

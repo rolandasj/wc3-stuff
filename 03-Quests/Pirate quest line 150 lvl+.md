@@ -5,6 +5,6 @@ Theres a quest to bring meat from the Autumn village. Talk to the elf npc in the
 3rd quest will be to find treasure / kill their captain. You need to bring shovel to the pirate island to the back. Shovel can be found in the barrell in Archaeological camp under the golden cube
 Baron the captain bashes. Not sure if perma. I was unable to kill it
 
-![](attachments/Pasted%20image%2020251216234806.png)
+![](attachments/Pasted%20image%2020251216234806.webp)
 
-![](attachments/Pasted%20image%2020251216234925.png)
+![](attachments/Pasted%20image%2020251216234925.webp)

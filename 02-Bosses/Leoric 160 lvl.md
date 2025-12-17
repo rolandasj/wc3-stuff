@@ -1,2 +1,2 @@
 Do the challenge in necropolis, bring the item to the crypt in top right in dremora gardens. Boss is summoned where 4 circles are, on the lamp/torch whatever.
-![](attachments/Pasted%20image%2020251215200456.png)
+![](attachments/Pasted%20image%2020251215200456.webp)

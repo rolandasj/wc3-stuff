@@ -5,16 +5,16 @@ Go back to 1st purple capital portal and talk to Rufus. The secret shop npc shou
 
 Items: A reflection of a warlike people, Spectral matter, Cup of wine, Druid Telescope, Azuna's Soul, The Wizard's Tome
 
-![](attachments/Pasted%20image%2020251217032217.png)
+![](../02-Bosses/attachments/Pasted%20image%2020251217032217.webp)
 
-![](attachments/Pasted%20image%2020251217032230.png)
+![](../02-Bosses/attachments/Pasted%20image%2020251217032230.webp)
 
-![](attachments/Pasted%20image%2020251217032257.png)
+![](../02-Bosses/attachments/Pasted%20image%2020251217032257.webp)
 
-![](attachments/Pasted%20image%2020251217032317.png)
+![](../02-Bosses/attachments/Pasted%20image%2020251217032317.webp)
 
-![](attachments/Pasted%20image%2020251217032344.png)
+![](../02-Bosses/attachments/Pasted%20image%2020251217032344.webp)
 
-![](attachments/Pasted%20image%2020251217032411.png)
+![](../02-Bosses/attachments/Pasted%20image%2020251217032411.webp)
 
-![](attachments/Pasted%20image%2020251217032857.png)
+![](attachments/Pasted%20image%2020251217032857.webp)

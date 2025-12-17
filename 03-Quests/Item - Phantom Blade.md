@@ -4,8 +4,8 @@ Bring the secret item to bandits area, theres island ish that you can walk to.
 Blade will spawn on the island
 
 
-![](attachments/Pasted%20image%2020251217100038.png)
+![](attachments/Pasted%20image%2020251217100038.webp)
 
-![](attachments/Pasted%20image%2020251217100123.png)
+![](attachments/Pasted%20image%2020251217100123.webp)
 
-![](attachments/Pasted%20image%2020251217100306.png)
+![](attachments/Pasted%20image%2020251217100306.webp)
