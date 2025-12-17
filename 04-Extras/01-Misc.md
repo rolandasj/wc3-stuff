@@ -8,7 +8,8 @@ Mini Technoid = Mini Technoid (item) - Increases ranged damage by 100%, increase
 Chimera = Achievement for 8k kills - Increases combat speed by 20%, increases health regeneration speed by 500 units.
 Djinn = 3 powerful buffs to choose from. Retrieve the lamp after killing the Blood Queen. Flying carpet in the wasteland.
 
-
 Magic Key Chain
 - Strange Key from Ashenvale Forest cage
 - Bloody Key from hydromancer
+
+Shandris is in 3rd purple portal in capital
