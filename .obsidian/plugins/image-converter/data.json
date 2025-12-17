@@ -101,9 +101,25 @@
       "ffmpegExecutablePath": "",
       "ffmpegCrf": 23,
       "ffmpegPreset": "medium"
+    },
+    {
+      "name": "WebP 20",
+      "outputFormat": "WEBP",
+      "quality": 20,
+      "colorDepth": 1,
+      "resizeMode": "None",
+      "desiredWidth": 800,
+      "desiredHeight": 600,
+      "desiredLongestEdge": 1000,
+      "enlargeOrReduce": "Auto",
+      "allowLargerFiles": false,
+      "skipConversionPatterns": "",
+      "ffmpegExecutablePath": "",
+      "ffmpegCrf": 23,
+      "ffmpegPreset": "medium"
     }
   ],
-  "selectedConversionPreset": "WEBP (75, no resizing)",
+  "selectedConversionPreset": "webp-20",
   "globalPresets": [
     {
       "name": "WebP 75",
@@ -114,15 +130,15 @@
       "resizePreset": "Default (No Resize)"
     },
     {
-      "name": "default?",
+      "name": "WebP 20",
       "folderPreset": "Default (Obsidian setting)",
       "filenamePreset": "Keep original name",
-      "conversionPreset": "WEBP (75, no resizing)",
+      "conversionPreset": "webp-20",
       "linkFormatPreset": "Markdown, Relative",
       "resizePreset": "Default (No Resize)"
     }
   ],
-  "selectedGlobalPreset": "default?",
+  "selectedGlobalPreset": "WebP 20",
   "linkFormatSettings": {
     "linkFormatPresets": [
       {

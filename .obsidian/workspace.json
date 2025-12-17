@@ -11,14 +11,12 @@
             "id": "c4aa526c1063c42b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "03-Quests/Item - A fragment of the legendary sword.md",
-                "mode": "source",
-                "source": false
+                "file": "02-Bosses/attachments/Pasted image 20251215110035.webp"
               },
-              "icon": "lucide-file",
-              "title": "Item - A fragment of the legendary sword"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251215110035"
             }
           }
         ]
@@ -186,6 +184,7 @@
   },
   "active": "c4aa526c1063c42b",
   "lastOpenFiles": [
+    "03-Quests/Item - A fragment of the legendary sword.md",
     "03-Quests/Item - Tip of the Legendary Sword.md",
     "02-Bosses/Arthas (ice fort).md",
     "02-Bosses/01-Boss Drop List.md",
@@ -209,7 +208,6 @@
     "01-Recipes/01-Misc.md",
     "04-Extras/01-Misc.md",
     "04-Extras/Secret shop - Temple of Annouk.md",
-    "03-Quests/Item - A fragment of the legendary sword.md",
     "03-Quests/attachments/Pasted image 20251217102238.webp",
     "03-Quests/attachments/Pasted image 20251217102214.webp",
     "03-Quests/attachments/Pasted image 20251217102152.webp",
