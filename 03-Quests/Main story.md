@@ -6,9 +6,16 @@ Now it should tell you go to autumn village and talk to fire. Talk to fire, it s
 Now it should tell you go back to king with letter. Go back and talk to king.
 It should tell to talk to spiritual guide or something, go talk and it should ping to collect 6 runes. Collect and return, it tells you go back to King.
 Talk to king, it tells you go talk to kellari (in a camp where doors opened). After you talk she dissapears.
-She appears in plague lands, talk to it. Tells you to active the obelisk
+She appears in plague lands, talk to it. Tells you to active the obelisks. There are 4 obelisks to activate
+- in 3rd purple capital portal
+- orc camp, secret area. You start walking from top right corner into water and follow the "road"
+- secret machinarum room
+- close to archeology camp
 
-...
+In order to activate the obelisks you need to kill guardians to charge them up
+
+
+to be continued
 
 ![](attachments/Pasted%20image%2020251217081831.webp)
 
@@ -21,3 +28,9 @@ She appears in plague lands, talk to it. Tells you to active the obelisk
 ![](attachments/Pasted%20image%2020251217082214.webp)
 
 ![](attachments/Pasted%20image%2020251217082614.webp)
+
+![](./attachments/Main%20story-1765982694738.webp)
+
+![](./attachments/Main%20story-1765985059823.webp)
+
+![](./attachments/Main%20story-1765985225978.webp)

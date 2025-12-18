@@ -14,8 +14,8 @@ It will give you Natural essence item.
 
 ![](attachments/Pasted%20image%2020251217071055.webp)
 
-![](./attachments/image.png)
+![](./attachments/Item%20-%20Natural%20essence-1765979064132.webp)
 
-![](./attachments/image-1.png)
+![](./attachments/Item%20-%20Natural%20essence-1765979075511.webp)
 
-![](./attachments/image-2.png)
+![](./attachments/Item%20-%20Natural%20essence-1765979084907.webp)

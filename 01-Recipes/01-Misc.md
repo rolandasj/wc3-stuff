@@ -57,7 +57,7 @@ In the Demon Atoll near the big tower
 Sauron's Ring = Ancient Hobbit Ring + They're All Mortal + Otherworld Gloves + Flame of Peithar (Doom) + Hammer of the Damned (Saphiron)
 
 Lord of Legions = Azazel's Essence + Azazel's Bloodletter + Grim Shield + Azazel's Call + Matter of Suffering + Arcane Keys  
-Crafted in Hassan's Prison on Helmod
+Crafted in Hassan's Prison on Helmod (you sail to it 110 + area, its illadin prison, move with a courier)
 Ban = Lord of Legions + Bloodheart of Kil'jaeden + Recipe for Ban  
 Silence = Lord of Legions + Bloodheart of Kil'jaeden + Recipe for Silence  
 Astral = Lord of Legions + Bloodheart of Kil'jaeden + Recipe for Astral

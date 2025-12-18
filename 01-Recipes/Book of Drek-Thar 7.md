@@ -1,4 +1,5 @@
 Bring 3 keys here and you will get this recipe - Book of Drek-Thar 7
+You have to return all quests before you try to use the keys.
 ## Cold Key
 In the Ice Fortress, stand in the very bottom-left corner and look along the bottom wall to the right with your mouse. Find the barrel containing this key.
 ## Materia Key (The key of unification) 

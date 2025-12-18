@@ -1,5 +1,5 @@
 Bring butchers head from 40-50 dead forest area. The boss will spawn after.
 
-![](./attachments/image.png)
+![](./attachments/Butcher%20Joseph-1765979128914.webp)
 
-![](./attachments/image-2.png)
+![](./attachments/Butcher%20Joseph-1765979136501.webp)

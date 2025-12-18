@@ -6,10 +6,10 @@ night elf (make elixir) in capital
 10 swamp dweller (flooded valley)
 5 batran hairs (temple of annouk)
 4 herbs (druid) close to wild lands
-miracle mushroom
-fireweed (underworld)
+miracle mushroom (plague lands, nerub spider area)               
+fireweed (underworld) (supposedly to open doors need 4 guardians or so?)
 
-spirit mark
+spirit mark ?
 
 ![](attachments/Pasted%20image%2020251217073411.webp)
 

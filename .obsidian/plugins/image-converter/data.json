@@ -28,7 +28,7 @@
       "conflictResolution": "increment"
     }
   ],
-  "selectedFilenamePreset": "Keep original name",
+  "selectedFilenamePreset": "NoteName-Timestamp",
   "outputFormat": "NONE",
   "quality": 100,
   "colorDepth": 1,
@@ -101,25 +101,9 @@
       "ffmpegExecutablePath": "",
       "ffmpegCrf": 23,
       "ffmpegPreset": "medium"
-    },
-    {
-      "name": "WebP 20",
-      "outputFormat": "WEBP",
-      "quality": 20,
-      "colorDepth": 1,
-      "resizeMode": "None",
-      "desiredWidth": 800,
-      "desiredHeight": 600,
-      "desiredLongestEdge": 1000,
-      "enlargeOrReduce": "Auto",
-      "allowLargerFiles": false,
-      "skipConversionPatterns": "",
-      "ffmpegExecutablePath": "",
-      "ffmpegCrf": 23,
-      "ffmpegPreset": "medium"
     }
   ],
-  "selectedConversionPreset": "WebP 20",
+  "selectedConversionPreset": "WEBP (75, no resizing)",
   "globalPresets": [
     {
       "name": "WebP 75",
@@ -128,17 +112,9 @@
       "conversionPreset": "WEBP (75, no resizing)",
       "linkFormatPreset": "Default (Wikilink, Shortest)",
       "resizePreset": "Default (No Resize)"
-    },
-    {
-      "name": "WebP 20",
-      "folderPreset": "Default (Obsidian setting)",
-      "filenamePreset": "Keep original name",
-      "conversionPreset": "webp-20",
-      "linkFormatPreset": "Markdown, Relative",
-      "resizePreset": "Default (No Resize)"
     }
   ],
-  "selectedGlobalPreset": "WebP 20",
+  "selectedGlobalPreset": "",
   "linkFormatSettings": {
     "linkFormatPresets": [
       {
@@ -245,15 +221,15 @@
   "ProcessCurrentNoteskipImagesInTargetFormat": false,
   "ProcessCurrentNoteEnlargeOrReduce": "Always",
   "ProcessCurrentNoteSkipFormats": "tif,tiff,heic",
-  "ProcessAllVaultconvertTo": "webp",
-  "ProcessAllVaultquality": 0.2,
+  "ProcessAllVaultconvertTo": "disabled",
+  "ProcessAllVaultquality": 0.75,
   "ProcessAllVaultResizeModalresizeMode": "None",
   "ProcessAllVaultResizeModaldesiredWidth": 500,
   "ProcessAllVaultResizeModaldesiredHeight": 500,
   "ProcessAllVaultResizeModaldesiredLength": 500,
   "ProcessAllVaultEnlargeOrReduce": "Always",
-  "ProcessAllVaultSkipFormats": "webp",
-  "ProcessAllVaultskipImagesInTargetFormat": true,
+  "ProcessAllVaultSkipFormats": "",
+  "ProcessAllVaultskipImagesInTargetFormat": false,
   "annotationPresets": {
     "drawing": [
       {
@@ -322,7 +298,7 @@
       }
     ]
   },
-  "isImageAlignmentEnabled": true,
+  "isImageAlignmentEnabled": false,
   "imageAlignment_cacheCleanupInterval": 3600000,
   "imageAlignment_cacheLocation": "plugin",
   "isDragResizeEnabled": true,
@@ -331,14 +307,14 @@
   "isResizeInReadingModeEnabled": false,
   "resizeSensitivity": 0.1,
   "scrollwheelModifier": "Shift",
-  "isImageResizeEnbaled": true,
+  "isImageResizeEnbaled": false,
   "resizeState": {
     "isResizing": false
   },
-  "enableContextMenu": true,
+  "enableContextMenu": false,
   "showSpaceSavedNotification": true,
   "revertToOriginalIfLarger": false,
-  "enableImageCaptions": true,
+  "enableImageCaptions": false,
   "skipCaptionExtensions": "icns",
   "captionFontSize": "var(--font-smaller)",
   "captionColor": "var(--text-gray)",

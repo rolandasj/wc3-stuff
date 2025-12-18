@@ -659,7 +659,7 @@
 - Dušegub
 
 ---
-## Daemon
+## Daemon (demon)
 - Termit III
 - Magic Flask
 - Yorica Mask

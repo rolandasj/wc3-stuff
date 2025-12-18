@@ -7,6 +7,7 @@ Widow's cry 5 = Widow's cry 4 + voodoo doll + dark accelerator + homunculus helm
 Widow's cry 6 = Widow's cry 5 + Mask of the Faceless + Headdress of the defender + The Defeated Servant + Ice Shoulder Guards + Ice Troll Blade
 Adjutant of the Milennium 1 = Widow's cry 6 + Armor-Chamelion + Orc Chieftain Set + Bionoric + Scroll of Isolation + Queen's Swiftness
 Adjutant of the Milennium 2 = Adjutant of the Milennium 1 + The Soul of The Grand Master + Soulcatcher set(p) + Berserker Gloves + Bloodspring Armor + Bleeding
+Adjutant of the Milennium 3 = Adjutant of the Milennium 2 + dead man's set + lich mask + the lost tome of dark magic + spear of the moon + energy coulomb
 ```
 
 Once you make Adjutant of the Milennium 1, it becomes courier item. Imagine it as a 7th or 8th slot (cuz soul brander). 
