@@ -1,7 +1,7 @@
 ### Couriers
-Kote = Kote Part I + Kote Part II + Kote Part III + Kote Part IV - Armor Removal - 80 units, Increase your attack speed by 15%
+Kote = (halloween courier) Kote Part I + Kote Part II + Kote Part III + Kote Part IV - Armor Removal - 80 units, Increase your attack speed by 50%, 300% damage
 Wisp = Forest Pet Part I (from Kobald at 8) + Forest Pet Part II (from Owl at 8) + Forest Pet Part III (from Royal Bandit at 8) - Forest Cover + 5% combat and movement speed. +2% critical strike and block chance.
-Ancient Roshk = Ancient Roshk - Grants a group within a 500 AoE radius + 5% dodge, 5% critical chance and x30 critical damage.
+Ancient Roshk = Kransparus - Ice pet that increases damage by 0.45 and reduces enemy attack speed by 23%.
 Aramanchik = Aramanchik(Araman by 8) - Decreases defense by 30, Increases health recovery speed by 150 units
 New Year's Owl = Santa's Soul + Santa's Ring + Santa's Staff + Santa's Cape - Increases the defense of nearby friendly troops by 35 units, health regeneration by 200 units and mana by 40 units
 Mini Technoid = Mini Technoid (item) - Increases ranged damage by 100%, increases attack power by 100%
@@ -13,3 +13,4 @@ Magic Key Chain
 - Bloody Key from hydromancer
 
 Shandris is in 3rd purple portal in capital
+

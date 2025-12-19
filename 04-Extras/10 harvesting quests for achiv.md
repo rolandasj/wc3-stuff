@@ -29,4 +29,6 @@ spirit mark ?
 
 ![](attachments/Pasted%20image%2020251217075823.webp)
 
+![](./attachments/10%20harvesting%20quests%20for%20achiv-1766130963353.webp)
+
 ![](attachments/Pasted%20image%2020251217094613.webp)

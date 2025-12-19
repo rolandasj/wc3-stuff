@@ -13,26 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Recipes/Soul Brander.md",
+                "file": "04-Extras/4 guardians 160 lvl +.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soul Brander"
+              "title": "4 guardians 160 lvl +"
             }
           },
           {
-            "id": "bbc1ac2d58dd671f",
+            "id": "b3c38a01cee4095c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Bosses/01-Boss Drop List.md",
+                "file": "03-Quests/Orc quest line.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Boss Drop List"
+              "title": "Orc quest line"
+            }
+          },
+          {
+            "id": "7802d9406a0c9a73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Bosses/Knight of the Abyss 160 lvl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Knight of the Abyss 160 lvl"
             }
           }
         ],
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "guardian",
+                "query": "stee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Bosses/01-Boss Drop List.md",
+                "file": "01-Recipes/Event possibly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01-Boss Drop List"
+              "title": "Backlinks for Event possibly"
             }
           },
           {
@@ -200,44 +213,44 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d86c39ab92dee35a",
+  "active": "dda1c4d65fcb36e3",
   "lastOpenFiles": [
-    "02-Bosses/02-Mob Drop list.md",
-    "02-Bosses/01-Boss Drop List.md",
-    "02-Bosses/Supreme Necros.md",
-    "01-Recipes/01-Misc.md",
-    "02-Bosses/Baron 160 lvl.md",
-    "02-Bosses/Nerubian Commander 160 lvl.md",
-    "04-Extras/10 harvesting quests for achiv.md",
-    "02-Bosses/Admiral.md",
-    "02-Bosses/Dreadnought (Admiral ship).md",
-    "02-Bosses/Demon (daemon) 150 lvl.md",
-    "04-Extras/Secret shop - Abandoned Mine.md",
-    "03-Quests/Item - Forester's Boots.md",
-    "03-Quests/attachments/Item - Forester's Boots-1766013481486.webp",
-    "03-Quests/attachments/Item - Forester's Boots-1766013459857.webp",
-    "03-Quests/attachments/Item - Forester's Boots-1766012420487.webp",
-    "03-Quests/attachments/Item - Forester's Boots-1766012397124.webp",
-    "03-Quests/attachments/Item - Forester's Boots-1766012381280.webp",
-    "03-Quests/attachments/Item - Forester's Boots-1766008757450.webp",
-    "03-Quests/attachments/Item - Forester's Boots-1766008625738.webp",
-    "03-Quests/attachments/Item - Forester's Boots-1766008388239.webp",
-    "01-Recipes/Soul Brander.md",
-    "03-Quests/attachments/Item - Forester's Boots-1766008373961.webp",
-    "03-Quests/Item - Heart of the Usurper.md",
-    "03-Quests/attachments/Item - Heart of the Usurper-1766007295853.webp",
-    "01-Recipes/Widow's cry.md",
-    "04-Extras/Secret shop - Temple of Annouk.md",
-    "04-Extras/Secret shop - 1st purple portal in capital.md",
-    "04-Extras/Secret shop - Dead Swamp.md",
-    "03-Quests/Item - Mandrake Tincture.md",
-    "03-Quests/Item - Dark figure.md",
-    "03-Quests/Item - Dragon Storm.md",
+    "03-Quests/Peasant (wastelands).md",
+    "03-Quests/Main story.md",
     "03-Quests/Item - A fragment of the legendary sword.md",
-    "03-Quests/Item - Tip of the Legendary Sword.md",
-    "03-Quests/Jaina quest, opens more teleports.md",
-    "03-Quests/Item - Phantom Blade.md",
+    "04-Extras/Tomb of the Drakes.md",
+    "04-Extras/attachments/Tomb of the Drakes-1766170022262.webp",
+    "04-Extras/4 guardians 160 lvl +.md",
+    "04-Extras/Fishing.md",
+    "04-Extras/Secret lab.md",
+    "04-Extras/Darius tower (to open).md",
+    "04-Extras/Courier - Wisp.md",
+    "04-Extras/Courier - New Year's Owl.md",
+    "04-Extras/Courier - Ginny.md",
+    "04-Extras/Capital 2nd purple portal.md",
+    "04-Extras/01-Misc.md",
+    "04-Extras/02-Locations.md",
     "04-Extras/4 elements.md",
+    "04-Extras/attachments/4 guardians 160 lvl +-1766169906034.webp",
+    "02-Bosses/Knight of the Abyss 160 lvl.md",
+    "03-Quests/Lost toy.md",
+    "03-Quests/Item - The Lost Mechanism.md",
+    "03-Quests/Item- The Lost Mechanism.md",
+    "02-Bosses/01-Boss Drop List.md",
+    "03-Quests/Item - The Ancient Hobbit Ring.md",
+    "03-Quests/attachments/Item - The Ancient Hobbit Ring-1766169117068.webp",
+    "03-Quests/Item - The Undertakers Heart.md",
+    "03-Quests/Item - The Fourth Fragment of the Thunderer's Weapon.md",
+    "03-Quests/Item - Spider slime.md",
+    "03-Quests/Item - Poseidon's Trident.md",
+    "03-Quests/Item - Natural essence.md",
+    "03-Quests/attachments/Item - The Ancient Hobbit Ring-1766168969892.webp",
+    "03-Quests/attachments/Item - The Ancient Hobbit Ring-1766168949424.webp",
+    "03-Quests/attachments/Lost toy-1766167748679.webp",
+    "03-Quests/attachments/Item - The Ancient Hobbit Ring-1766167635964.webp",
+    "04-Extras/attachments/4 guardians 160 lvl +-1766163367797.webp",
+    "02-Bosses/attachments/Ontarius-1766157494220.webp",
+    "02-Bosses/attachments/Ontarius-1766157487615.webp",
     "03-Quests/attachments/${currentDate}/${timeStamp}",
     "03-Quests/attachments/${currentDate}",
     "03-Quests/attachments/pasted-${date}-${time}",

@@ -1,5 +1,5 @@
 ```
-[[Armor-Chamelion]] + Lucky Set II + Recipe for Lucky Set III + Dead Soul + Malachite Soul + Stone Soul
+Armor-Chamelion + Lucky Set II + Recipe for Lucky Set III + Dead Soul + Malachite Soul + Stone Soul
 
 Dead Soul = Soul Merge + Dead Rider Weapon + Banner of Subjugation + Burnt Hand Glove + Survival Stone  
 Malachite Soul = Soul Merge + Shadow Guardian + Snix's Malenic Pendant + Stone Mask + Death's Crown  
