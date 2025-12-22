@@ -1,3 +1,4 @@
+![](./attachments/02-Locations-1766174034829.webp)
 ## Wild Lands 1-8
 ![](attachments/Pasted%20image%2020251216013815.webp)
 

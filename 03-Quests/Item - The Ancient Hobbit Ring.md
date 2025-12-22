@@ -10,8 +10,8 @@ After charging it, return to Naga Siren to deliver the quest.
 Go to north of wastelands (Centaur Outpost), all the way to the top of area you will find 1st Guardian.
 On each Side you will find an element boss as well.
 Kill all 3, they each drop 1 seal. Return to siren.
-It will ask you to bring something or kill hydra, dont remember what it says at this point. But you need kill hydra. After return.
 It will ask you to bring Stardust. Stardust is quest reward for killing Darius, its next quest after unlocking the tower.
+It will ask you to kill hydra. It will give you potion, use it to make mob vulnureble.Take the items from hydra /
 Go to tree in archeology town, it should tell you to find the ring.
 Ring is located at entrance of abonded mines.
 

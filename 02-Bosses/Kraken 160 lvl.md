@@ -4,7 +4,7 @@ Next do the quest in temple of annouk to kill traitor
 Traitor is located behind Matrix boss, you can walk through water to access him
 Go to stone village and use both items on hero to spawn portal
 
-![](Admiral.md)
+![](Admiral%20(I%20Need%20Blood)%20140%20lvl.md)
 
 ![](./attachments/Kraken-1765990458009.webp)
 

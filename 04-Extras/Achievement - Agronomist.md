@@ -1,3 +1,5 @@
+10 harvesting quest achiv.
+
 fire flower (gardener quest) in first town
 night elf (make elixir) in capital
 4 salvia (fairy forest)
@@ -7,7 +9,7 @@ night elf (make elixir) in capital
 5 batran hairs (temple of annouk)
 4 herbs (druid) close to wild lands
 miracle mushroom (plague lands, nerub spider area)               
-fireweed (underworld) (supposedly to open doors need 4 guardians or so?)
+fireweed (underworld) (this may need hell and defeat sargeras...)
 
 spirit mark ?
 

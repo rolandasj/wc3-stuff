@@ -3,3 +3,5 @@ Lucky Set VI (Strength) = Lucky Set V + Clover + Lunar (Relic) + Prophet + Shiel
 Lucky Set VI (Dexterity) = Lucky Set V + Clover + Akasha's Star + Archibald's Blade + Frostmourne + Recipe for Lucky Set VI (Dexterity)  
 Lucky Set VI (Intellect) = Lucky Set V + Clover + Book of Demons + Gandolf's Staff + Meat Gas + Recipe for Lucky Set VI (Intellect)
 ```
+
+The set requires 170 lvl. Clover can only be obtained in hell after killing sargeras, theres a quest line for it.

@@ -79,13 +79,13 @@ End of Time = Bloody Heart of Araman + Mind Stone + Book of Demons + Mind + Esse
 
 Midas Glove = Reality Stone + Mind Stone + Power Stone + Space Stone + Soul Stone + Time Stone  
 Midas Glove II = Midas Glove + Kron's Helmet + Kron's Torture Tool + Scroll of Secret Knowledge  
-In the Archaeological Camp in the dark location with dragons (Possibly Hell mod)
+In the Archaeological Camp in the dark location with dragons
 Kron's Secret = Midas Glove II + Scroll of Secret Knowledge + Kron's Helmet + Kron's Torture Tool + Kron's Crimson Blood
 
 Holy Blade = Fragment of the Legendary Sword + Second Fragment of the Legendary Sword + Hilt of the Legendary Sword + Tip of the Legendary Sword + Fragment of the Sky  
-In Technoid near the statue of the wooden sword (Possibly Hell mod)
+In Technoid near the statue of the wooden sword (Hell mod)
 Misericordia = Holy Blade + Elwing's Tear + Stardust + Lost Hope + Sky Shard + Misericordia Recipe
-In Technoid near the wooden sword statue (Possibly Hell mod)
+In Technoid near the wooden sword statue (Hell mod)
 
 Shotgun = Smokeless + Bony Bow + Long-Barreled Musket + Recipe for Shotgun  
 Pruning Shears = Elemental Soul + Spectral Matter + Assassin's Garb + Recipe for Pruning Shears  

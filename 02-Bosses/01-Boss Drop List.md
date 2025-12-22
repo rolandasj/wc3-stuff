@@ -593,7 +593,7 @@
 - Secret
 
 ---
-## Grel Borg Miser (Secret Lab – Night Elf Boss)
+## Grel'borg the Miser (Secret Lab – Night Elf Boss)
 - Termit III
 - Tiara Perenolde
 - Robe of Arcanum (Agility)
@@ -659,7 +659,7 @@
 - Dušegub
 
 ---
-## Daemon (demon)
+## Daemon (demon) spirit of death
 - Termit III
 - Magic Flask
 - Yorica Mask
@@ -695,7 +695,7 @@
 ---
 ## Try to Kill If You Can (Cactus)
 - Termit III
-- Robe Killers
+- The Killer's Outfit
 
 ---
 ## Spiritual Guardian
@@ -703,7 +703,7 @@
 - First Shard of the Grave Key
 
 ---
-## Enchanted Keeper of the Grove  (Forest Entrance)
+## Enchanted Keeper of the Grove
 - Termit III
 - Sulfuric Acid
 - Hoof of the Horned Guardian
@@ -807,5 +807,23 @@
 - Berserker Gloves
 - Bloodspring Armor
 - Bleeding
+
+---
+
+## Fel Dragon (tomb of the drakes)
+- Termite 3
+- Dragon Heart
+- Recipe for Archibald's Blade
+- Recipe for Volthumir's Cape
+- Essence of Corruption
+
+---
+## Kransparus
+- Eladi Stone
+- Kelani Stone
+- Pulsar
+- Recipe for Divine Rock
+- Shard of Gilosh
+- Ancient Roshk
 
 ---

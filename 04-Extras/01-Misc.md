@@ -12,5 +12,29 @@ Magic Key Chain
 - Strange Key from Ashenvale Forest cage
 - Bloody Key from hydromancer
 
+Once you reach 160 lvl, nothing will give you exp except. Bosses that have stats (str,agi,int), and mobs 160 + (starting with 161). Personally i only found them in underworld 
+Bosses that i found to give exp at 160+ : Ice Horror, Admiral, Undertaker, Demon Arthas and boss in dremora gardens (you need high lvl to ta)
+
 Shandris is in 3rd purple portal in capital
+
+If you kill cow with butchers axe you will get meat carcas.
+It can be used for a quest to feed hungry hunter
+It will later requrie more meat or fried meat.
+with salt and peper you can make fried carcas and feed him again
+
+
+Ring daun recipe
+Must be int hero
+starts in circle/rife looking thing above dremora gardens
+Next you need go to cat that is fairy tale forest, cloes to main story npc and whatnot.
+
+
+to access stone grove you need halloween event, and free the mentor (secret lab quest chain to open 1st and 2nd capital portals). After the npc is spirit of vengeance located where kellari is or tony quest is.
+
+
+
+Scroll of power was from mini boss before 4th guardian.
+In order for it to drop you need take quest from dremora guardians npc on a secret hill on the right.
+
+![](./attachments/01-Misc-1766274070753.webp)
 

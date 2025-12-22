@@ -1,0 +1,3 @@
+You get it from Leprechaun. He spawns after you kill Sargeras. You need to be 170 lvl to start the quest line
+
+todo...

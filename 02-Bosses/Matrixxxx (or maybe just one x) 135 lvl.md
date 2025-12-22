@@ -1,2 +1,3 @@
 Located in Temple of Annouk. Left bottom portal. To unlock it, you have to do all portals in order: 1st top right in corner in the ogre camp, 2nd top left above the Matrix one, 3rd Left middle below the 2nd. 4th below the 3rd one. You need to get key from each panda (2 keys total) and bring to the last portal.
+
 ![](attachments/Pasted%20image%2020251215182049.webp)

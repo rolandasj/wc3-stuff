@@ -1,10 +1,10 @@
 You start the quest in ice Fort. Tells you to kill 45 trolls.
 After it tells you kill spider and activate 3 obelisks.
 Spider drops activation item, so you need kill over and over again for them.
+After activating a mob will spawn, kill it to activate
 After you activated...
-
 Should tell you to kill the Grinch. To get to him you need go to 2nd capital purple portal to the spider statue.
-There are towers that one shot you, so you need pass them somehow. One way is to get potion that makes u invincible for short period from snowman.
+There are towers that one shot you, so you need pass them somehow. One way is to get potion that makes u invincible for short period from snowman. (spawns in ice fort)
 Once you pass towers theres a barrier and a lever. You need to press the lever via ranged attack or a summon. I have used 'magic fire' to summon phoenix.
 Continue the path and youll find Grinch. Kill him and return to tuskar.
 He tells you to save 6 children. Cages with children appear in ice fort area. 1 cage at a time. Save them.

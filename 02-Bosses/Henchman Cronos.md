@@ -1,2 +1,3 @@
 Go to Plague Lands and enter this crypt, kill boss, get the key (dead man key). Once you have the key you need go to secret lab elf area. Bring the key to the crypt. Boss will spawn
+
 ![](attachments/Pasted%20image%2020251215205404.webp)![](attachments/Pasted%20image%2020251215205457.webp)

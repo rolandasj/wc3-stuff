@@ -1,1 +1,1 @@
-South of 2nd viper in Dremora Garden
+South of 2nd viper in Dremora Garden (secret lab entrance after pulling the lever)

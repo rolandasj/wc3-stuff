@@ -1,0 +1,1 @@
+Kill Frost wyrms in Necropolis, once you killed enough Saphiron will spawn in 40-50 area (you will get ping)

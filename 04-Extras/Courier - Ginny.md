@@ -17,7 +17,9 @@ Possible buffs:
 - Poisoning, allows you to deal an additional 20% of the damage dealt
 - Saves from death with a 20% chance
 
-Once wishes chosen, you cannoy undo or change them, you have to redo the whole thing again.
+Once wishes chosen, you cannot undo or change them, you have to redo the whole thing again.
+
+Every lobby you will need get lamp and redo buffs, it does not save. A horrible horrible thing. Do not know if it is a bug or .. just spagheti code.
 
 ![](./attachments/Courier%20-%20Ginny-1766156596323.webp)
 

@@ -1,4 +1,5 @@
 [
   "oz-clear-unused-images",
-  "image-converter"
+  "image-converter",
+  "templater-obsidian"
 ]
