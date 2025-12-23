@@ -17,7 +17,7 @@ Deliver the toy to kid in Capital. Kid will walk away to Orc tower located to th
 Follow him there, wait 1 minute and talk to him again.
 He will then walk to Villager located left of fountain in Capital. 
 Give Villager barrel of ale (drops from Bandit Lord located left of Cenarius Statue in Troll Forest level 1). 
-write -+ (not sure if does something maybe skip dialogue)
+write -+- (not sure if does something maybe skip dialogue)
 After go to Archeology area and talk to the tree (located above the portal when you are in Archeology area).
 After that go to Plaguelands. Before reaching shipyard there is Naga Siren npc left of it in water.
 Talk to her and she will give you a Seal that you need to charge by killing 100 golems in Temple of Annouk. 
