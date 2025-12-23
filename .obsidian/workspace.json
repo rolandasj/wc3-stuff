@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2f524187bc4fb6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Quests/Item - Elwing's Tear.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Item - Elwing's Tear"
-            }
-          },
-          {
             "id": "ca6647fe89ef0453",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Extras/4 guardians 160 lvl +.md",
+                "file": "04-Extras/Aura items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 guardians 160 lvl +"
+              "title": "Aura items"
             }
           },
           {
@@ -81,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "salt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -213,10 +199,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2f524187bc4fb6c",
+  "active": "ca6647fe89ef0453",
   "lastOpenFiles": [
-    "03-Quests/Item - Clover.md",
+    "04-Extras/Untitled.md",
+    "04-Extras/Aura items.md",
+    "04-Extras/Untitled.base",
+    "04-Extras/attachments/4 guardians 160 lvl +-1766130806234.webp",
+    "04-Extras/Courier - New Year's Owl.md",
+    "04-Extras/Secret shop - Dremora Garden.md",
+    "04-Extras/4 guardians 160 lvl +.md",
+    "items.yaml",
+    "items.md",
+    "02-Bosses/02-Mob Drop List.md",
+    "cleaned-items.yaml",
+    "03-Quests/attachments/Saw-1765979485336.webp",
+    "03-Quests/attachments/Saw-1765979544193.webp",
+    "03-Quests/attachments/Saw-1765979428950.webp",
+    "03-Quests/attachments/Penguin-1766289266251.webp",
     "03-Quests/Item - Elwing's Tear.md",
+    "03-Quests/Item - Clover.md",
     "03-Quests/Witch Doctor.md",
     "04-Extras/01-Misc.md",
     "03-Quests/01-Misc.md",
@@ -233,24 +234,12 @@
     "02-Bosses/Gul'dan 160 lvl.md",
     "02-Bosses/Leviathan.md",
     "02-Bosses/Butcher Joseph.md",
-    "04-Extras/4 guardians 160 lvl +.md",
     "03-Quests/attachments/Item - Elwing's Tear-1766474667415.webp",
     "02-Bosses/attachments/Demonic Guardian (doom)-1766474173376.webp",
     "02-Bosses/attachments/Demonic Guardian (doom)-1766474164498.webp",
     "02-Bosses/attachments/Demonic Guardian (doom)-1766473962461.webp",
     "02-Bosses/attachments/Demonic Guardian (doom)-1766473817582.webp",
-    "02-Bosses/attachments/Demonic Guardian (doom)-1766473782250.webp",
-    "02-Bosses/attachments/Demonic Guardian (doom)-1766473620380.webp",
-    "02-Bosses/attachments/Demonic Guardian (doom)-1766473462902.webp",
-    "02-Bosses/attachments/Demonic Guardian (doom)-1766473356667.webp",
-    "02-Bosses/attachments/Demonic Guardian (doom)-1766473061713.webp",
     "01-Recipes/Event possibly.md",
-    "02-Bosses/Satan 160 lvl.md",
-    "03-Quests/Item - Hammer of the Damned.md",
-    "03-Quests/Item - A fragment of the legendary sword.md",
-    "03-Quests/Item - Andril.md",
-    "03-Quests/Item - Poseidon's Trident.md",
-    "03-Quests/Item - Rune Min.md",
     "03-Quests/attachments/${currentDate}/${timeStamp}",
     "03-Quests/attachments/${currentDate}",
     "03-Quests/attachments/pasted-${date}-${time}",
@@ -258,9 +247,6 @@
     "04-Extras/01-Misc locations/attachments",
     "04-Extras/01-Misc locations",
     "03-Quests/attachments",
-    "Untitled.base",
-    "Untitled 1.base",
-    "Untitled.canvas",
-    "attachments"
+    "Untitled.canvas"
   ]
 }
