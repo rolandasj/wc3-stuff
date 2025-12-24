@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Extras/Aura items.md",
+                "file": "02-Bosses/01-Boss Drop List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aura items"
+              "title": "01-Boss Drop List"
             }
           },
           {
@@ -201,8 +201,8 @@
   },
   "active": "ca6647fe89ef0453",
   "lastOpenFiles": [
-    "04-Extras/Untitled.md",
     "04-Extras/Aura items.md",
+    "04-Extras/Untitled.md",
     "04-Extras/Untitled.base",
     "04-Extras/attachments/4 guardians 160 lvl +-1766130806234.webp",
     "04-Extras/Courier - New Year's Owl.md",

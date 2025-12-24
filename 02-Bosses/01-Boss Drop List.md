@@ -74,6 +74,9 @@
 - Recipe for Astral (Armor)
 - Recipe for Silence (Boots)
 - Recipe for Ban (Ancient Gloves)
+- Claw Incinerate
+- Gaze of Nothingness
+- Glove of the Flame
 
 ---
 ## Keel Jaeden- Kil'jaden
@@ -229,13 +232,6 @@
 - Silvermaster's Spaulders
 - Skeleton Life
 - Executioner
-
----
-## Satan
-- Termit III
-- Claw Incinerate
-- Gaze of Nothingness
-- Glove of the Flame
 
 ---
 ## Ancient Dragon of Permafrost
@@ -787,13 +783,6 @@
 - A Red Sunset
 - Kron Helmet
 - Queen's Blood
-
----
-## Black Dragon
-- Termit III
-- Dragon Heart
-- Recipe for the Book of Voltumin
-- Recipe for Blade of Archibalt
 
 ---
 ## Supreme Necros  (In the Temple with Blood)
